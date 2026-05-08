@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://oglobo.globo.com/epoca/",
+        "image": "oglobo.png"
+    },
+    {
+        "url": "https://www.espn.com.br/",
+        "image": "espn.png"
+    },
+    {
+        "url": "https://www.acritica.com/",
+        "image": "acritica.png"
+    },
+    {
+        "url": "https://www.cbc.ca/news",
+        "image": "cbc.png"
+    },
+    {
+        "url": "https://www.linuxjournal.com/",
+        "image": "linux-journal.png"
+    }
+]
